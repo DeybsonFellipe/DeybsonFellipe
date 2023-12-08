@@ -1,4 +1,4 @@
-Estudante de ADS e programação.
+Estudante de ADS
 
 
 
